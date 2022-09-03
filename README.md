@@ -1,2 +1,2 @@
 # Checkerboard-Game
-Play the classic two-player checkerboard game.
+Play the classic two-player checkerboard game against the computer.
